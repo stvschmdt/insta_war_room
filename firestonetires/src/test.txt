@@ -1,0 +1,6 @@
+[log] started 2017-11-11 01:21:58.929462
+[info] 2017-11-11 01:21:58.953772 read in json data from ../inputs/cravecrush.json
+[info] 2017-11-11 01:21:58.997916 data contains columns set([u'is_video', u'edge_media_to_caption', u'dimensions', u'tags', u'edge_media_to_comment', u'display_url', u'comments_disabled', u'id', u'owner', u'urls', u'video_view_count', u'taken_at_timestamp', u'thumbnail_src', u'shortcode', u'edge_liked_by'])
+[info] 2017-11-11 01:21:58.997933 data contains 347 posts
+[info] 2017-11-11 01:21:58.997938 data contains 752 unique tags
+[log] started 2017-11-11 01:21:58.997948
