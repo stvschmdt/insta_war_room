@@ -10,3 +10,8 @@ in conjunction with socia_qs
  
  - build digraph structure of brand to consumer, consumer to brand to run pagerank on most important entities
  - build digraph structure of brand to users, users to brand similarities to determine influencer/entity proximity
+ 
+ TODO:
+  - advanced json parser for image.log files
+  - object detection module for image segmentation
+  - word2vec implementation
